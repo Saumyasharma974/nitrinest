@@ -21,8 +21,8 @@ Nitrinest is a fitness website that calculates BMI and provides meal and workout
 ## Tech Stack
 - **Frontend**: React.js, Tailwind CSS, Framer Motion
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (if used)
-- **Authentication**: JSON Web Tokens (JWT) (if used)
+- **Database**: MongoDB 
+- **Authentication**: JSON Web Tokens (JWT) 
 - **Email Service**: NodeMailer
 
 ## Installation & Setup
